@@ -1,44 +1,202 @@
-[
+{
+  "products": [
     {
-      "albumId": 1,
       "id": 1,
-      "title": "Image 1",
-      "url": "./img/image1.png",
-      "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+      "imageUrl": "https://files.toomanygifts.ru/images/media/cache/product_full/product_image/2510/63625e221369c709090199.png",
+      "price": 25.99,
+      "quality": "High",
+      "material": "Cotton",
+      "productionCountry": "China",
+      "materialMadeFrom": "100% Cotton"
     },
     {
-      "albumId": 1,
       "id": 2,
-      "title": "Image 2",
-      "url": "./img/image2.png",
-      "thumbnailUrl": "https://via.placeholder.com/150/771796"
+      "imageUrl": "https://6fwear.com/image/cache/catalog/i/je/he/c4dfe260384f507b949a8e5ec3de2135-400x400.png",
+      "price": 29.99,
+      "quality": "Medium",
+      "material": "Polyester",
+      "productionCountry": "USA",
+      "materialMadeFrom": "Polyester Blend"
     },
     {
-      "albumId": 1,
       "id": 3,
-      "title": "Image 3",
-      "url": "./img/image3.png",
-      "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+      "imageUrl": "https://cdn.olcha.uz/image/400x400/products/billz/sportway/2023-07-20/p9aJqAtbKucJttm4JHNtEQ5TMewr4wmsZ8R7QXZYPedyWfSmvhIrG9WEXDCrjYPw.png",
+      "price": 35.99,
+      "quality": "High",
+      "material": "Cotton",
+      "productionCountry": "Uzbekistan",
+      "materialMadeFrom": "100% Cotton"
     },
     {
-      "albumId": 1,
       "id": 4,
-      "title": "Image 4",
-      "url": "./img/image4.png",
-      "thumbnailUrl": "https://via.placeholder.com/150/d32776"
+      "imageUrl": "https://files.toomanygifts.ru/images/media/cache/product_medium/product_image/cba8/63dc639ca4147173414560.png",
+      "price": 19.99,
+      "quality": "Low",
+      "material": "Nylon",
+      "productionCountry": "Russia",
+      "materialMadeFrom": "Nylon Blend"
     },
     {
-      "albumId": 1,
       "id": 5,
-      "title": "Image 5",
-      "url": "./img/image5.png",
-      "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
+      "imageUrl": "https://omnigifts.ru/images/detailed/3898/1d4575f3254b26d376055e36528d4ac6_po3o-hp.png",
+      "price": 21.99,
+      "quality": "Medium",
+      "material": "Cotton",
+      "productionCountry": "Russia",
+      "materialMadeFrom": "100% Cotton"
     },
     {
-      "albumId": 1,
       "id": 6,
-      "title": "Image 6",
-      "url": "./img/image6.png",
-      "thumbnailUrl": "https://via.placeholder.com/150/56a8c2"
+      "imageUrl": "https://chelyabinsk.iqon.ru/wa-data/public/shop/products/84/57/5784/images/24010/24010.400x0.png",
+      "price": 27.99,
+      "quality": "High",
+      "material": "Polyester",
+      "productionCountry": "Russia",
+      "materialMadeFrom": "Polyester Blend"
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://sport-x.com.ua/content/images/46/400x400l50nn0/muzhskaya-futbolka-vf0013-63532604663059.png",
+      "price": 19.99,
+      "quality": "Premium",
+      "material": "Cotton",  
+      "productionCountry": "United States",
+      "materialMadeFrom": "Cotton"
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://britanshop.ru/upload/iblock/5fb/qxs6lmv57wf3maf40nbilhvv87lxdo3y.png",
+      "price": 23.99,
+      "quality": "Standard",
+      "material": "Polyester",
+      "productionCountry": "Canada",
+      "materialMadeFrom": "Polyester"
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://static.nike.com/a/images/t_default/47f0d393-9810-4f7f-859e-4f4529287bf6/los-angeles-lakers-mens-nba-t-shirt-0gKCVp.png",
+      "price": 25.99,
+      "quality": "Basic",
+      "material": "Spandex",
+      "productionCountry": "Russia",
+      "materialMadeFrom": "Silk"
+    },
+    {
+      "id": 10,
+      "imageUrl": "https://static.nike.com/a/images/t_default/axenknr4dgc8hfrjlveu/san-antonio-spurs-filip-pagowski-mens-nba-t-shirt-3bmBrv.png",
+      "price": 46.99,
+      "quality": "Luxury",
+      "material": "Rayon",
+      "productionCountry": "United Kingdom",
+      "materialMadeFrom": "Wool"
+    },
+    {
+      "id": 11,
+      "imageUrl": "https://static.nike.com/a/images/t_default/9c19d44c-33b8-4682-a269-8f159a74612b/city-connect-wordmark-chicago-cubs-mens-t-shirt-5pLP60.png",
+      "price": 28.99,
+      "quality": "Soft",
+      "material": "Linen",
+      "productionCountry": "Germany",
+      "materialMadeFrom": "Linen"
+    },
+    {
+      "id": 12,
+      "imageUrl": "https://static.nike.com/a/images/t_default/axenknr4dgc8hfrjlveu/san-antonio-spurs-filip-pagowski-mens-nba-t-shirt-3bmBrv.png",
+      "price": 33.99,
+      "quality": "Durable",
+      "material": "Bamboo",
+      "productionCountry": "France",
+      "materialMadeFrom": "Rayon"
+    },
+    {
+      "id": 13,
+      "imageUrl": "https://static.nike.com/a/images/t_default/35a31a59-38da-4f5f-ba49-5b29f5f5f6e5/dri-fit-sideline-legend-carolina-panthers-mens-t-shirt-9rc112.png",
+      "price": 36.99,
+      "quality": "Comfortable",
+      "material": "Silk",
+      "productionCountry": "Italy",
+      "materialMadeFrom": "Nylon"
+    },
+    {
+      "id": 14,
+      "imageUrl": "https://static.nike.com/a/images/t_default/bdd96ddb-75fb-459b-b780-02520021f411/team-carolina-panthers-mens-t-shirt-D6klk6.png",
+      "price": 32.99,
+      "quality": "Lightweight",
+      "material": "Wool",
+      "productionCountry": "Japan",
+      "materialMadeFrom": "Spandex"
+    },
+    {
+      "id": 15,
+      "imageUrl": "https://static.nike.com/a/images/t_default/1e6cf5e6-460c-4fc7-8568-56a1c47cce30/wordmark-essential-tennessee-titans-mens-t-shirt-gnBR4C.png",
+      "price": 31.99,
+      "quality": "Breathable",
+      "material": "Nylon",
+      "productionCountry": "China",
+      "materialMadeFrom": "Bamboo"
+    },
+    {
+      "id": 16,
+      "imageUrl": "https://static.nike.com/a/images/t_default/axenknr4dgc8hfrjlveu/san-antonio-spurs-filip-pagowski-mens-nba-t-shirt-3bmBrv.png",
+      "price": 37.99,
+      "quality": "Stretchy",
+      "material": "Viscose",
+      "productionCountry": "India",
+      "materialMadeFrom": "Hemp"
+    },
+    {
+      "id": 17,
+      "imageUrl": "https://omnigifts.ru/images/detailed/6060/c79c5790946a5f9bf7df85c76092dfe1.png",
+      "price": 42.99,
+      "quality": "Standard",
+      "material": "Modal",
+      "productionCountry": "Russia",
+      "materialMadeFrom": "Denim"
+    },
+    {
+      "id": 18,
+      "imageUrl": "https://files.toomanygifts.ru/images/media/cache/product_medium/product_image/89de/64657f9d32c8c055429578.png",
+      "price": 44.99,
+      "quality": "Wrinkle-Resistant",
+      "material": "Hemp",
+      "productionCountry": "Brazil",
+      "materialMadeFrom": "Velvet"
+    },
+    {
+      "id": 19,
+      "imageUrl": "https://omnigifts.ru/images/detailed/3899/d8584334dc5b4772743178360a15d830_moy9-6h.png",
+      "price": 48.99,
+      "quality": "Eco-Friendly",
+      "material": "Organic Cotton",
+      "productionCountry": "Australia",
+      "materialMadeFrom": "Corduroy"
+    },
+    {
+      "id": 20,
+      "imageUrl": "https://files.toomanygifts.ru/images/media/cache/product_full/product_image/4a8a/62e1abe7091ad698486513.png",
+      "price": 47.99,
+      "quality": "Organic",
+      "material": "Tencel",
+      "productionCountry": "South Korea",
+      "materialMadeFrom": "Jersey"
+    },
+    {
+      "id": 21,
+      "imageUrl": "https://files.toomanygifts.ru/images/media/cache/product_medium/product_image/0cc1/62e1abe6aee27664663404.png",
+      "price": 56.99,
+      "quality": "Anti-Shrink",
+      "material": "Velvet",
+      "productionCountry": "Mexico",
+      "materialMadeFrom": "Fleece"
+    },
+    {
+      "id": 22,
+      "imageUrl": "https://giftprime.ru/wp-content/uploads/2023/05/cec5671c05bd3cafea0ad1d5101e71c9.png",
+      "price": 53.99,
+      "quality": "Moisture-Wicking",
+      "material": "Cashmere",
+      "productionCountry": "Spain",
+      "materialMadeFrom": "Chambray"
     }
   ]
+}
