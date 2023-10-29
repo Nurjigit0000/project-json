@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "imageUrl": "https://berniem.eu/images/product_prod_fancy//upload-files/1641578712f4956750b73c0c995db1d66109e04a4fdb6f3f6f.png",
+    "price": "2000 рублей",
+    "description": "Детская Лего игрушка - отличный способ развивать творческое мышление и моторику у маленьких строителей. В наборе есть куча красочных деталей для создания удивительных конструкций.",
+    "sort": "лего игрушка детский"
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://berniem.eu/images/product_prod_fancy//upload-files/1672067722276de1c71b97b823fe53f23dcf455dc5b3a27271.png",
+    "price": "1500 рублей",
+    "description": "Лего игрушка для детей включает в себя разнообразные детали и инструкции для сборки различных моделей. Подходит для детей всех возрастов.",
+    "sort": "игрушка детский лего"
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://content1.rozetka.com.ua/goods/images/original/331356455.png",
+    "price": "500 рублей",
+    "description": "Детский пазл - отличный способ развивать логику и внимание у малышей. Этот яркий и увлекательный пазл поможет развить моторику рук и визуальное восприятие.",
+    "sort": "игрушка детский пазл"
+  },
+  {
+    "id": 4,
+    "imageUrl": "https://avatars.mds.yandex.net/get-mpic/5238231/img_id3960462897921311618.png/orig",
+    "price": "1200 рублей",
+    "description": "Детская машина - отличный выбор для любителей автомобилей. Эта игрушка выполнена в безопасном для детей дизайне и развивает координацию движений.",
+    "sort": "игрушка детский машина"
+  },
+  {
+    "id": 5,
+    "imageUrl": "https://www.klotsipood.ee/storage/images/_thumbs/klotsipood2/ZaYRPR8OW7wQcWLQq265PoA1O.png",
+    "price": "2500 рублей",
+    "description": "Лего игрушка с персонажем Человек-пауком привнесет в мир ваших детей захватывающие приключения. В комплекте фигурка Человека-паука и его удивительные приключения.",
+    "sort": "игрушка детский лего человек паук"
+  },
+  {
+    "id": 6,
+    "imageUrl": "https://www.klotsipood.ee/storage/images/_thumbs/klotsipood1/kFoR9U7U94XLFGf3zYN7D2fDT.png",
+    "price": "2800 рублей",
+    "description": "Ещё один вариант Лего игрушки с Человеком-пауком для маленьких фанатов супергероев. Этот набор позволит детям создать свои собственные приключения.",
+    "sort": "игрушка детский лего человек паук"
+  },
+  {
+    "id": 7,
+    "imageUrl": "https://skypka1.com/assets/images/skupka-ps4-igri.png",
+    "price": "4000 рублей",
+    "description": "Диск с игрой для PlayStation для взрослых игроков. Отличный способ провести время с друзьями или самостоятельно.",
+    "sort": "пс плэстейшн диск игра взрослый"
+  },
+  {
+    "id": 8,
+    "imageUrl": "https://static.rainboskin.me/.zone2/images/preview/mainDisk.png",
+    "price": "3500 рублей",
+    "description": "Игра для PlayStation, созданная специально для взрослых. Графика и сюжет погрузят вас в захватывающий мир виртуальных приключений.",
+    "sort": "пс плэстейшн игра взрослый"
+  },
+  {
+    "id": 9,
+    "imageUrl": "https://pngimg.com/uploads/tennis/tennis_PNG10411.png",
+    "price": "800 рублей",
+    "description": "Фитнес теннис - отличный способ поддерживать активный образ жизни. Эта игра поможет вам весело провести время и поддерживать форму.",
+    "sort": "игра фитнес теннис взрослый"
+  },
+  {
+    "id": 10,
+    "imageUrl": "https://tersportclub.ru/images/004/226/830/4226830/513x771/%D0%A2%D0%95%D0%9D%D0%98.png",
+    "price": "1200 рублей",
+    "description": "Теннисная игра для взрослых. Отличный способ улучшить свои навыки и насладиться соревновательным духом.",
+    "sort": "игра теннис взрослый"
+  },
+  {
+    "id": 11,
+    "imageUrl": "https://www.fansmarket.ru/img/big/42.gif",
+    "price": "600 рублей",
+    "description": "Фитнес мяч для взрослых - отличный способ укрепить мышцы и поддерживать здоровье. Эта игра сделает вашу тренировку более интересной.",
+    "sort": "игра фитнес мяч взрослый"
+  },
+  {
+    "id": 12,
+    "imageUrl": "https://sportmir.club/image/cache/catalog/YMLb3dd3db1610c344380d3ef2f066afb54/futbolnye-myachi/IMGdedfe644058758d3e38aed8787f467aa-600x600.png",
+    "price": "700 рублей",
+    "description": "Ещё один вариант фитнес мяча для взрослых. Идеально подходит для домашних тренировок и расслабления.",
+    "sort": "игра фитнес мяч взрослый"
+  },
+  {
+    "id": 13,
+    "imageUrl": "https://f1.lpcdn.site/292ab95d0ac26f960bb03434a35a3263/039e43ec8e097a187d0af2b809a72950.png",
+    "price": "1500 рублей",
+    "description": "Детский костюм супергероя Супермена. Позвольте вашему ребенку почувствовать себя настоящим героем в этом костюме.",
+    "sort": "игра костюм детский супер мен"
+  },
+  {
+    "id": 14,
+    "imageUrl": "https://magic-toys.kg/image/cache/catalog/sync1c/00-00000655-4-800x800.png",
+    "price": "1000 рублей",
+    "description": "Кукла Барби - это классическая игрушка, которая приносит много радости маленьким девочкам. Эта кукла одета в красивое платье и готова к приключениям.",
+    "sort": "игрушка детский кукла барби"
+  },
+  {
+    "id": 15,
+    "imageUrl": "https://content1.rozetka.com.ua/goods/images/big/234693160.png",
+    "price": "1200 рублей",
+    "description": "Ещё одна кукла Барби для вашей коллекции. Соберите всю серию и устраивайте модные показы и истории.",
+    "sort": "игрушка детский кукла барби"
+  },
+  {
+    "id": 16,
+    "imageUrl": "https://www.krez.com/files/goods/photos/30026663.png",
+    "price": "15000 рублей",
+    "description": "Ноутбук с операционной системой Windows - идеальное решение для работы и развлечений. Мощный и надежный гаджет для ваших потребностей.",
+    "sort": "гаджет ноутбук виндовс"
+  },
+  {
+    "id": 17,
+    "imageUrl": "https://haieronline.kz/upload/iblock/447/ri86mnvzo5gibaapnacn8mgouscubnqu/6_3_min.webp",
+    "price": "17000 рублей",
+    "description": "Ещё один ноутбук с операционной системой Windows для взрослых. Современный и стильный гаджет для работы и развлечений.",
+    "sort": "гаджет ноутбук виндовс"
+  },
+  {
+    "id": 18,
+    "imageUrl": "https://www.ixbt.com/img/r30/00/02/30/31/applemacbookpro13mid2020.jpg",
+    "price": "25000 рублей",
+    "description": "Макбук - это высокопроизводительный ноутбук для профессионалов. Отличное решение для работы с графикой и мультимедиа.",
+    "sort": "гаджет ноутбук макбук"
+  },
+  {
+    "id": 19,
+    "imageUrl": "https://api.xiaomistore.md/media/media/darwin-apple-iphone-14-pro-max-6-gb-256-gb-silver-069_nrsyPqk.webp",
+    "price": "80000 рублей",
+    "description": "Смартфон iPhone - идеальный выбор для ценителей высокой производительности и стильного дизайна. Современный гаджет для вашей повседневной жизни.",
+    "sort": "гаджет телефон айфон"
+  },
+  {
+    "id": 20,
+    "imageUrl": "https://pngimg.com/d/iphone_14_PNG21.png",
+    "price": "1000",
+    "description": "Последняя модель iPhone.",
+    "sort": "гаджет телефон айфон"
+  },
+  {
+    "id": 21,
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/022/722/945/original/samsung-galaxy-s23-ultra-transparent-image-free-png.png",
+    "price": "900",
+    "description": "Высококлассный смартфон Samsung.",
+    "sort": "гаджет телефон самсунг"
+  },
+  {
+    "id": 22,
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s23-ultra-5g-1.jpg",
+    "price": "950",
+    "description": "Флагман Samsung.",
+    "sort": "гаджет телефон самсунг"
+  },
+  {
+    "id": 23,
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-13-pro-1.jpg",
+    "price": "400",
+    "description": "Смартфон Xiaomi Redmi Note 13 Pro.",
+    "sort": "гаджет телефон редми"
+  },
+  {
+    "id": 24,
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-13-1.jpg",
+    "price": "350",
+    "description": "Бюджетный смартфон Xiaomi Redmi Note 13.",
+    "sort": "гаджет телефон редми"
+  },
+  {
+    "id": 25,
+    "imageUrl": "https://klg.shop.megafon.ru/images/goods/1713/171360_p_20.png",
+    "price": "800",
+    "description": "Смартфон Huawei с высоким разрешением камеры.",
+    "sort": "гаджет телефон хуавей"
+  },
+  {
+    "id": 26,
+    "imageUrl": "https://ae01.alicdn.com/kf/S7f9174f0ac644144ab35f3065459676a8/Original-HUAWEI-Mate-50-smartphone-HarmonyOS-3-0-Ultra-Dimming-XMAGE-Image-OLED-straight-screen-10.png",
+    "price": "900",
+    "description": "Huawei Mate 50 с HarmonyOS 3.0.",
+    "sort": "гаджет телефон хуавей"
+  },
+  {
+    "id": 27,
+    "imageUrl": "https://perm.divizion.com/image/cache/catalog/Pocofone/123654984654651-700x700.png",
+    "price": "600",
+    "description": "Смартфон Poco с оригинальным дизайном.",
+    "sort": "гаджет телефон поко"
+  },
+  {
+    "id": 28,
+    "imageUrl": "https://cdn.skidka-msk.ru/images/prodacts/sourse/107762/107762107_smartfon-poco-f4-gt-12-256gb-global-cyber-yellow-jeltyiy-xiaomi.jpg",
+    "price": "550",
+    "description": "Poco F4 GT с 256 ГБ памяти.",
+    "sort": "гаджет телефон поко"
+  },
+  {
+    "id": 29,
+    "imageUrl": "https://gtoil.ru/assets/images/products/824/cap-l.png",
+    "price": "20",
+    "description": "Мужская кепка различных цветов.",
+    "sort": "вещь одежда кепка мужской"
+  },
+  {
+    "id": 30,
+    "imageUrl": "https://capandcap.ru/img$s_image/201003222146-7521.htm/ne-276-1.png",
+    "price": "25",
+    "description": "Стильная мужская кепка на все случаи жизни.",
+    "sort": "вещь одежда кепка мужской"
+  },
+  {
+    "id": 31,
+    "imageUrl": "https://static.insales-cdn.com/images/products/1/3612/611126812/1400x1400.png",
+    "price": "30",
+    "description": "Мужская зимняя шапка для холодных дней.",
+    "sort": "вещь одежда шапка мужской"
+  },
+  {
+    "id": 32,
+    "imageUrl": "https://www.sokolov-al.ru/bitrix/templates/shapki_new/img/hat-2.png",
+    "price": "20",
+    "description": "Женская кепка с современным дизайном.",
+    "sort": "вещь одежда кепка женский"
+  },
+  {
+    "id": 33,
+    "imageUrl": "https://sreda.photo/product-images/freeway_demi_amber_50_gray_lenses.Mhq49m2SA7.1.png",
+    "price": "50",
+    "description": "Стильные мужские очки с янтарным оттенком.",
+    "sort": "вещь очки мужской"
+  },
+  {
+    "id": 34,
+    "imageUrl": "https://freepngimg.com/thumb/watch/22783-7-rolex-watch-file.png",
+    "price": "5000",
+    "description": "Роскошные мужские часы Rolex.",
+    "sort": "вещь часы ролекс мужской"
+  },
+  {
+    "id": 35,
+    "imageUrl": "https://viatec.ua/upload/images/prod/2023-03/Howard_Leight_Genesis.webp",
+    "price": "60",
+    "description": "Защитные очки Howard Leight Genesis.",
+    "sort": "вещь очки мужской"
+  },
+  {
+    "id": 36,
+    "imageUrl": "https://kudesyvnov.ru/image/cache/catalog/brasletikombinirovannie/24006_2020-04-03_13-33-03-500x500.png",
+    "price": "50",
+    "description": "Модный мужской и женский браслет.",
+    "sort": "вещь браслет мужской женский"
+  },
+  {
+    "id": 37,
+    "imageUrl": "https://media2.bulgari.com/f_auto,q_auto/production/dw1edc95f8/images/images/457589.png",
+    "price": "200",
+    "description": "Элегантный женский браслет от Bvlgari.",
+    "sort": "вещь браслет женский"
+  },
+  {
+    "id": 38,
+    "imageUrl": "https://jewelmaker.pro/img/cep-shirokaya-retush-fin-1.png",
+    "price": "40",
+    "description": "Стильная цепочка для мужчин и женщин.",
+    "sort": "вещь цепочка мужской женский"
+  },
+  {
+    "id": 39,
+    "imageUrl": "https://dynastiya.gold/content/images/50/480x480l50nn0/zolotaya-tsepochkaid-90189921713859.png",
+    "price": "250",
+    "description": "Золотая цепочка для женщин.",
+    "sort": "вещь цепочка женский"
+  },
+  {
+    "id": 40,
+    "imageUrl": "https://www.nicolameyer.com/wp-content/uploads/2022/01/IMG_5672_back_case_slots_flap_horizontal_camel_nicola_meyer.png",
+    "price": "30",
+    "description": "Чехол для смартфона с различными слотами.",
+    "sort": "чехол гаджет телефон"
+  },
+  {
+    "id": 41,
+    "imageUrl": "https://images2.zoodmall.uz/cdn-cgi/image/w=500,fit=contain,f=auto/https%3A%2F%2Fimages.zoodmall.com%2Fcloudinary%2F36%2Fc1b%2Fhttps%25253A%25252F%25252Fwww.prizma.uz%25252Fuploads%25252Fproduct%25252Fimages%25252F010302-00007%25252FAir_pods_2_1_1.png",
+    "price": "150",
+    "description": "Наушники Apple AirPods 2.",
+    "sort": "наушник айр подс гаджет"
+  },
+  {
+    "id": 42,
+    "imageUrl": "https://media.bite.lt/@bite-lv/sites/default/files/2023-02/samsung-galaxy-s23-smart-view-wallet-case-khaki-4.png",
+    "price": "20",
+    "description": "Чехол для смартфона Samsung Galaxy S23.",
+    "sort": "чехол гаджет телефон"
+  },
+  {
+    "id": 43,
+    "imageUrl": "https://istudio-kazan.ru/a/istudio/files/multifile/2353/1_69_0.webp",
+    "price": "80",
+    "description": "Наушники Apple AirPods Pro.",
+    "sort": "наушник айр подс гаджет"
+  },
+  {
+    "id": 44,
+    "imageUrl": "https://static.mvideo.ru/media/Promotions/Promo_Page/2022/April/obzor-kak-vybrat-besprovodnye-naushniki/obzor-kak-vybrat-besprovodnye-naushniki-img-product4.png",
+    "price": "100",
+    "description": "Большие беспроводные наушники.",
+    "sort": "наушник большой гаджет"
+  },
+  {
+    "id": 45,
+    "imageUrl": "https://www.sony.ru/image/bcef63d32b0270480b5371fb35cd3029?fmt=png-alpha&wid=660",
+    "price": "150",
+    "description": "Большие наушники Sony с высоким качеством звука.",
+    "sort": "наушник большой гаджет"
+  },
+  {
+    "id": 46,
+    "imageUrl": "https://rdwcomp.ru/assets/components/phpthumbof/cache/img-7935-1.de1ef62ae434dba17d701e195a67242e.webp",
+    "price": "300",
+    "description": "Монитор для компьютера с высоким разрешением.",
+    "sort": "гаджет монитор"
+  },
+  {
+    "id": 47,
+    "imageUrl": "https://www.gigabyte.am/assets/img/monitors-aorus.d6092702.png.webp",
+    "price": "400",
+    "description": "Игровой монитор Gigabyte AORUS.",
+    "sort": "гаджет монитор"
+  },
+  {
+    "id": 48,
+    "imageUrl": "https://softech.kg/image/cache/42f11a4e1e51fcb18613d52e0026bde4.png",
+    "price": "25",
+    "description": "Оптическая мышь для компьютера.",
+    "sort": "гаджет мышь курсор"
+  },
+  {
+    "id": 49,
+    "imageUrl": "https://softech.kg/image/cache/682198da4f24ad671462e659aaeaeff0.png",
+    "price": "20",
+    "description": "Беспроводная мышь с хорошей эргономикой.",
+    "sort": "гаджет мышь курсор"
+  },
+  {
+    "id": 50,
+    "imageUrl": "https://cdn2.ozone.ru/s3/cblocks/configurator-pk/0.0.29/assets/images/home/vK6j.png",
+    "price": "1000",
+    "description": "Компьютер с высокой производительностью.",
+    "sort": "пк компьютер"
+  },
+  {
+    "id": 51,
+    "imageUrl": "https://assets.corsair.com/image/upload/f_auto,q_auto,w_1000/akamai/landing/hydro-x/img/hydro-x-home/hero-product-blk.webp",
+    "price": "2500",
+    "description": "Мощный геймерский ПК от Corsair.",
+    "sort": "пк компьютер"
+  },
+  {
+    "id": 52,
+    "imageUrl": "https://thunder-x3.ru/upload/iblock/afb/7.png",
+    "price": "8000",
+    "description": "Комфортное геймерское кресло Thunder X3.",
+    "sort": "кресло"
+  },
+  {
+    "id": 53,
+    "imageUrl": "https://thunder-x3.ru/upload/iblock/024/1.png",
+    "price": "7500",
+    "description": "Еще одно стильное геймерское кресло от Thunder X3.",
+    "sort": "кресло"
+  },
+  {
+    "id": 54,
+    "imageUrl": "https://images.satu.kz/111660614_w640_h640_dron-phantom-4.jpg",
+    "price": "20000",
+    "description": "Профессиональный дрон Phantom 4 для взрослых.",
+    "sort": "дрон игра игрушка взрослый"
+  },
+  {
+    "id": 55,
+    "imageUrl": "https://www.foxmart.md/images/product/1683813076923_o_1683812543899.png",
+    "price": "1500",
+    "description": "Дрон-игрушка для взрослых и детей.",
+    "sort": "дрон игра игрушка взрослый"
+  },
+  {
+    "id": 56,
+    "imageUrl": "https://cdn.ksyru0-fusion.fds.api.mi-img.com/b2c-mishop-pms-ru/pms_1620466804.61076670.png",
+    "price": "3000",
+    "description": "Камера видеонаблюдения для охраны.",
+    "sort": "камера охрана"
+  },
+  {
+    "id": 57,
+    "imageUrl": "https://www.polymedia.ru/upload/iblock/6db/images_2.png",
+    "price": "4000",
+    "description": "Компактная камера для системы видеонаблюдения.",
+    "sort": "камера охрана"
+  },
+  {
+    "id": 58,
+    "imageUrl": "https://images.prom.ua/4309986572_w640_h640_chehol-popit-na.jpg",
+    "price": "500",
+    "description": "Игрушка - детский попит.",
+    "sort": "игрушка детский попыт"
+  },
+  {
+    "id": 59,
+    "imageUrl": "https://images.prom.ua/3136144957_w640_h640_igrushka-antistress-pop.jpg",
+    "price": "300",
+    "description": "Антистресс-игрушка для детей.",
+    "sort": "игрушка детский попыт"
+  },
+  {
+    "id": 60,
+    "imageUrl": "https://static.look.online/storage/images/cache/model/lrXHFAzWVOIJokuu5vjIIxPfhpEtM41MpEkmsw9Z_750_750.webp",
+    "price": "1200",
+    "description": "Стильное женское платье для взрослых.",
+    "sort": "женский платье взрослый"
+  },
+  {
+    "id": 61,
+    "imageUrl": "https://elan.net.ua/image/cache/catalog/catalog/elanwear/rubashki/rubashka-s-silikonovoi-nashivkoi-elan-belaya/xrubashka-s-silikonovoi-nashivkoi-elan-belaya-1-900x900.png.pagespeed.ic.bu6qXcseMC.png",
+    "price": "800",
+    "description": "Мужская рубашка для взрослых.",
+    "sort": "мужской рубашка взрослый"
+  },
+  {
+    "id": 62,
+    "imageUrl": "https://static.look.online/storage/images/cache/model/Ys7IrAdsi0pIwLy3ODNF1APGElnsWDGCXwsLnt31_1080_1350.webp",
+    "price": "1500",
+    "description": "Стильное женское платье для взрослых.",
+    "sort": "женский платье взрослый"
+  },
+  {
+    "id": 63,
+    "imageUrl": "https://profish.ua/image/cache/catalog/product/odegdaiekiperovka/rubashki-futbolki/9836-682x682.png",
+    "price": "700",
+    "description": "Мужская рубашка для взрослых.",
+    "sort": "мужской рубашка взрослый"
+  },
+  {
+    "id": 64,
+    "imageUrl": "https://static.look.online/storage/images/cache/model/I9xKJ22nvkIbWIGqzgR0vRfhRzhteUTuVrPkE6lA_1080_1350.webp",
+    "price": "600",
+    "description": "Детская юбка для девочек.",
+    "sort": "женский детский юбка"
+  },
+  {
+    "id": 65,
+    "imageUrl": "https://spb.alpindustria.ru/i/product/l/-41158_11.png",
+    "price": "1200",
+    "description": "Мужские штаны-брюки для взрослых.",
+    "sort": "взролсый штаны брюки мужской"
+  },
+  {
+    "id": 66,
+    "imageUrl": "https://allweneed.ru/media/products/images/2020/11/IMG_0795_%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F_u9JVjo8.png.1200x1600_q90.png",
+    "price": "800",
+    "description": "Женская юбка для взрослых.",
+    "sort": "юбка женский взрослый"
+  },
+  {
+    "id": 67,
+    "imageUrl": "https://allweneed.ru/media/products/images/2019/08/IMG-141.png.1200x1600_q90.png",
+    "price": "900",
+    "description": "Мужские брюки-штаны для взрослых.",
+    "sort": "штаны взрослый брюки штаны мужской"
+  },
+  {
+    "id": 68,
+    "imageUrl": "https://zalizkoshop.com.ua/image/cache/catalog/badminton/odegda/victor_short_denmark_red_4628-860x860.png",
+    "price": "600",
+    "description": "Мужские спортивные шорты.",
+    "sort": "шорты шортик мужской"
+  },
+  {
+    "id": 69,
+    "imageUrl": "https://bugatti-fashion.com.ua/content/images/42/480x480l50nn0/89238027808213.png",
+    "price": "700",
+    "description": "Женские модные шорты.",
+    "sort": "женский шорты шортик"
+  },
+  {
+    "id": 70,
+    "imageUrl": "https://racketlon.ru/images/detailed/24/814523-CO_1.png",
+    "price": "500",
+    "description": "Женские спортивные шорты-шортики.",
+    "sort": "женский шорты шортик"
+  },
+  {
+    "id": 71,
+    "imageUrl": "https://навелосипеде.рф/images/detailed/33/-000028787_p_l.png",
+    "price": "1500",
+    "description": "Мужские шорты-шортики для взрослых.",
+    "sort": "мужской шорты шортик"
+  },
+  {
+    "id": 72,
+    "imageUrl": "https://6fwear.com/image/cache/catalog/i/od/oa/298b565633c518d69c2c851198f3dbc1-400x400.png",
+    "price": "500",
+    "description": "Женская футболка для взрослых.",
+    "sort": "футболка одежда женский взрослый"
+  },
+  {
+    "id": 73,
+    "imageUrl": "https://spb.alpindustria.ru/i/product/l/-50479_23.png",
+    "price": "600",
+    "description": "Мужская футболка для взрослых.",
+    "sort": "футболка одежда мужской взрослый"
+  },
+  {
+    "id": 74,
+    "imageUrl": "https://images.prom.ua/3849486252_w600_h600_3849486252.jpg",
+    "price": "700",
+    "description": "Женская футболка для взрослых.",
+    "sort": "футболка одежда женский взрослый"
+  },
+  {
+    "id": 75,
+    "imageUrl": "https://www.ligapechati.ru/wp-content/uploads/2020/05/free-image-resizer-cropper-6.png",
+    "price": "800",
+    "description": "Мужская футболка для взрослых.",
+    "sort": "футболка одежда мужской взрослый"
+  },
+  {
+    "id": 76,
+    "imageUrl": "https://cdn.orteka.ru/promo/individual-complex-shoes/img/complex-product2.png",
+    "price": "2500",
+    "description": "Мужская обувь для взрослых.",
+    "sort": "обувь мужской взрослый"
+  },
+  {
+    "id": 77,
+    "imageUrl": "https://gaels.ru/wp-content/uploads/2021/10/img.png",
+    "price": "2000",
+    "description": "Женская обувь для взрослых.",
+    "sort": "обувь женской взрослый"
+  },
+  {
+    "id": 78,
+    "imageUrl": "https://294328.selcdn.ru/sursil_foto/00717bd4-a5ba-11ec-a2fb-3cecef005641_1.jpg",
+    "price": "3000",
+    "description": "Мужская обувь для взрослых.",
+    "sort": "обувь мужской взрослый"
+  },
+  {
+    "id": 79,
+    "imageUrl": "https://cdn.orteka.ru/promo/individual-complex-shoes/img/complex-product1.png",
+    "price": "2200",
+    "description": "Женская обувь для взрослых.",
+    "sort": "обувь женской взрослый"
+  },
+  {
+    "id": 80,
+    "imageUrl": "https://ligatura.by/image/catalog/products/32042_0.png",
+    "price": "1200",
+    "description": "Женская куртка для взрослых.",
+    "sort": "куртка одежда женской"
+  },
+  {
+    "id": 81,
+    "imageUrl": "https://alpindustria.ru/i/product/l/-57261_1.png",
+    "price": "1800",
+    "description": "Мужская куртка для взрослых.",
+    "sort": "куртка одежда мужской"
+  },
+  {
+    "id": 82,
+    "imageUrl": "https://content1.rozetka.com.ua/goods/images/big/149180860.png",
+    "price": "1300",
+    "description": "Женская куртка для взрослых.",
+    "sort": "куртка одежда женской"
+  },
+  {
+    "id": 83,
+    "imageUrl": "https://spb.alpindustria.ru/i/product/l/-57263_1.png",
+    "price": "1700",
+    "description": "Мужская куртка для взрослых.",
+    "sort": "куртка одежда мужской"
+  },
+  {
+    "id": 84,
+    "imageUrl": "https://techteam.ru/assets/media/images/products/1514/26-17-katalina-pink.png",
+    "price": "3500",
+    "description": "Взрослый мужской фитнес-велосипед.",
+    "sort": "взрослый велосипед мужской фитнес"
+  },
+  {
+    "id": 85,
+    "imageUrl": "https://www.velobaza.pro/catalog/nm4k7h83ccfamd4htn0e0eb5a2p165tc.png",
+    "price": "3200",
+    "description": "Взрослый мужской фитнес-велосипед.",
+    "sort": "взрослый велосипед мужской фитнес"
+  },
+  {
+    "id": 86,
+    "imageUrl": "https://extremal.kz/import_files/9e/9e030a2a8eb711eb95810025d3ae816d_612d7b09953f11eb926810c37bddeed5.png",
+    "price": "4500",
+    "description": "Взрослый женский фитнес-велосипед.",
+    "sort": "взрослый велосипед фитнес женской"
+  },
+  {
+    "id": 87,
+    "imageUrl": "https://img.ixbt.site/live/topics/preview/00/05/30/62/20eb8345d3.png",
+    "price": "4200",
+    "description": "Взрослый женский фитнес-велосипед.",
+    "sort": "взрослый велосипед фитнес женской"
+  },
+  {
+    "id": 88,
+    "imageUrl": "https://cdn.leroymerlin.ru/lmru/image/upload/v1629354043/lmcode/uoGDlPD3OUCgBv-eF9gKPw/89080633_tmp.png",
+    "price": "800",
+    "description": "Шторы для окон.",
+    "sort": "шторы"
+  },
+  {
+    "id": 89,
+    "imageUrl": "https://cdn.leroymerlin.ru/lmru/image/upload/v1688377240/lmcode/fQy2YKXtxUeAUOAcDiBi7Q/89080632.png",
+    "price": "950",
+    "description": "Шторы для окон.",
+    "sort": "шторы"
+  },
+  {
+    "id": 90,
+    "imageUrl": "https://static.insales-cdn.com/images/products/1/7625/683015625/fun45610-the-avengers-iron-man-avengers-assemble-diorama-deluxe-pop-vinyl-figure-popcultcha-01..webp",
+    "price": "900",
+    "description": "Игрушка детская Марвел с изображением Железного Человека.",
+    "sort": "фигурка игрушка детский марвел железный человек"
+  },
+  {
+    "id": 91,
+    "imageUrl": "https://nagrad.net/bin/img/img_big/3032/foto_big.jpg",
+    "price": "600",
+    "description": "Игрушка детская.",
+    "sort": "фигурка игрушка детский"
+  },
+  {
+    "id": 92,
+    "imageUrl": "https://images.prom.ua/2734857340_w640_h640_figurka-cristiano-ronaldo.jpg",
+    "price": "1200",
+    "description": "Игрушка детская с изображением Роналдо.",
+    "sort": "фигурка игрушка детский роналдо"
+  },
+  {
+    "id": 93,
+    "imageUrl": "https://images.satu.kz/140399352_w600_h600_140399352.jpg",
+    "price": "1800",
+    "description": "Рюкзак для мужчин и женщин.",
+    "sort": "рюкзак мужской женский"
+  },
+  {
+    "id": 94,
+    "imageUrl": "https://www.pyn.com.ua/image/cache/catalog/image/cache/catalog/Lenses/8/data-public-shop-products-85-59-15985-images-93181-93181-970-1000x1000.webp",
+    "price": "2500",
+    "description": "Рюкзак для мужчин и женщин.",
+    "sort": "рюкзак мужской женский"
+  },
+  {
+    "id": 95,
+    "imageUrl": "https://images.satu.kz/178151209_w600_h600_178151209.jpg",
+    "price": "2300",
+    "description": "Мужская взрослая одежда для фитнеса.",
+    "sort": "мужской взрослый фитнес"
+  },
+  {
+    "id": 96,
+    "imageUrl": "https://content1.rozetka.com.ua/goods/images/big/70237022.png",
+    "price": "2100",
+    "description": "Мужская взрослая одежда для фитнеса.",
+    "sort": "мужской взрослый фитнес"
+  },
+  {
+    "id": 97,
+    "imageUrl": "https://imperia.kg/image/cache/catalog/holodilniki/birjusa/W880NF/W880NF-2-1000x1000.png",
+    "price": "5500",
+    "description": "Холодильник для дома.",
+    "sort": "холодильник"
+  },
+  {
+    "id": 98,
+    "imageUrl": "https://imperia.kg/image/cache/catalog/holodilniki/nordfrost/NRB%20164NF%20W/NRB%20164NF%20W-1000x1000.png",
+    "price": "6000",
+    "description": "Холодильник для дома.",
+    "sort": "холодильник"
+  },
+  {
+    "id": 99,
+    "imageUrl": "https://images.prom.ua/1933588167_figurka-funko-pop.jpg",
+    "price": "800",
+    "description": "Игрушка детская Марвел.",
+    "sort": "фигурка игрушка детский марвел"
+  },
+  {
+    "id": 100,
+    "imageUrl": "https://geekzona.ru/upload/iblock/8a8/kupit-Figurka-Avengers-Loki-w-Scepter-Glow_in_the_Dark-_-Funko-Pop_-EE-Exclusive-1.png.webp",
+    "price": "900",
+    "description": "Игрушка детская Марвел с изображением Локи.",
+    "sort": "фигурка игрушка детский марвел локи"
+  }
+]
